@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1055077185535",
+    "firebase_url": "https://your-future-phone-default-rtdb.firebaseio.com",
+    "project_id": "your-future-phone",
+    "storage_bucket": "your-future-phone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055077185535:android:1cfc86fe36a00992d499ca",
+        "android_client_info": {
+          "package_name": "com.example.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055077185535-81l635kbnk0s40a49tch7igc3j787f5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFXiI3hfrnIZg4H_cUB8nK9gN6wxZmYw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055077185535-81l635kbnk0s40a49tch7igc3j787f5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
